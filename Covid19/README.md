@@ -4,8 +4,8 @@
 </p>
 
 
-É necessário realizar o download do CSV no link abaixo e depois fazer um merge dos arquivos. 
+It's necessary to download the CSV below and after to do merge the files
 
-DICA: O merge é um de cada vez.
+PS:  It's 4 files (To merge one by one)
 
-Link: https://covid.saude.gov.br/
+CSV's link: https://covid.saude.gov.br/
