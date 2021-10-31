@@ -1,0 +1,21 @@
+{
+  "usuario": [
+    {
+      "id": 1,
+      "nome": "Matheus",
+      "idade": 20
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Celular",
+      "preco": 999.99,
+      "id": 1
+    },
+    {
+      "nome": "Computador",
+      "preco": 1999.99,
+      "id": 2
+    }
+  ]
+}
