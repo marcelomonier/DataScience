@@ -17,7 +17,7 @@ Install and update using `pip`_:
 
 .. code-block:: text
 
-  $ pip install -r requiriments.txt
+  $ pip install -r requirements.txt
 
 .. _pip: https://pip.pypa.io/en/stable/getting-started/
 
