@@ -1,4 +1,4 @@
-Flask-SQLAlchemy and CRUD
+Flask-SQLAlchemy and CRUD with MySQL
 ================
 
 Flask-SQLAlchemy is an extension for `Flask`_ that adds support for
