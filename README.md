@@ -8,7 +8,7 @@
 
 
 <ul>
-  <li><h2>Human Resource Analytics:</h2>This is a data application used to display a Machine Learning solution to the problem of Human Resource Analytics. </li>
+  <li><h2>Human Resource Analytics:</h2>Application used to display a Machine Learning solution to the problem of Human Resource Analytics. </li>
   <li><h2>Covid19:</h2> Coronavirus (COVID-19) disease situation dashboard with latest data in the BRAZIL </li>
   <li><h2>Suicide:</h2> Yellow September (Brazil and World (1985-2015))
   <li><h2>Stroke:</h2> Analyzing and Modeling Stroke Data
