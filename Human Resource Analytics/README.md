@@ -7,7 +7,12 @@
 
 <p align="center">
   <img src="hra.png" width=100% title="HRA's Project ">
-<!--   <img src="hra.png" width="350" alt="accessibility text"> -->
+
+</p>
+
+<p align="center">
+  <img src="infra.png" width=100% title="INFRASTRUCTURE ">
+
 </p>
 
 
