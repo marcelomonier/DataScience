@@ -5,7 +5,7 @@
 <h2>This is a Data App used to display the Machine Learning solution to the Human Resource Analytics problem.</h2>
 </br>
 
-<h2>APP>/h2>
+<h2>APP</h2>
 <p align="center">
   <img src="hra.png" width=100% title="HRA's Project ">
 
@@ -21,6 +21,6 @@
 </p>
 
 
-<
+
 
 
