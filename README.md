@@ -15,7 +15,7 @@
   
   <li><h2><a href="https://github.com/marcelomonier/DataScience/tree/main/Covid19">Covid19</a>:</h2> Coronavirus (COVID-19) disease situation dashboard with latest data in the BRAZIL (08/08/2021)</li>
   
-    <li><h2><a href="https://github.com/marcelomonier/covid19_Brasil">Covid panorama in Brazil</a>:</h2> COVID-19 disease situation storytelling with latest data in the BRAZIL (07/03/2022)</li>
+  <li><h2><a href="https://github.com/marcelomonier/covid19_Brasil">Covid panorama in Brazil</a>:</h2> COVID-19 disease situation storytelling with latest data in the BRAZIL (07/03/2022)</li>
   
   <li><h2><a href="https://github.com/marcelomonier/DataScience/tree/main/Suicide">Suicide</a>:</h2> Yellow September (Brazil and World (1985-2015))</li>
   <li><h2><a href="https://github.com/marcelomonier/DataScience/tree/main/Stroke">Stroke</a>:</h2> Analyzing and Modeling Stroke Data. </li>
