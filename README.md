@@ -13,6 +13,8 @@
   
   <li><h2><a href="https://github.com/marcelomonier/DataScience/tree/main/Human%20Resource%20Analytics">Human Resource Analytics</a>:</h2>Data app used to display the Machine Learning solution to the Human Resource Analytics problem.</li>
   
+  <li><h2><a href="https://github.com/marcelomonier/CreditCardFraudDetection">Credit Card Fraud Detection</a>:</h2>This notebook looks to perform comparative analysis of Credit Card Fraudulent detection by using machine learning techniques, as logistic regression, KNN, Random Forest and SVM.</li>
+  
   <li><h2><a href="https://github.com/marcelomonier/DataScience/tree/main/Covid19">Covid19</a>:</h2> Coronavirus (COVID-19) disease situation dashboard with latest data in the BRAZIL (08/08/2021)</li>
   
   <li><h2><a href="https://github.com/marcelomonier/covid19_Brasil">Covid panorama in Brazil</a>:</h2> COVID-19 disease situation storytelling with latest data in the BRAZIL (07/03/2022)</li>
