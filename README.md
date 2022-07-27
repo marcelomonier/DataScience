@@ -8,6 +8,8 @@
 
 
 <ul>
+
+  <li><h2><a href="https://github.com/marcelomonier/Churn_Prediction" target="_blank">Churn Prediction</a>:</h2>The goal is to build a model with predictive power and provide insights into the behavior of customer churn for the company.</li>
   
   <li><h2><a href="https://tinyurl.com/2weymxs5" target="_blank">Airbnb Toronto Data Analysis</a>:</h2>This notebook looks at neighbourhoods seperated into clusters and what features of am AirBnb listing determines the price per night and how many bookings they get.</li>
   
