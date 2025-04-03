@@ -9,7 +9,7 @@
 
 <ul>
 
-  <li><h2><a href="[https://github.com/marcelomonier/langchain_and_youtube" target="_blank">LangChain and YouTube</a>:</h2>This project extracts a YouTube video's transcript, summarizes it using Google's Gemini model via Langchain, and displays it all in a Streamlit application.</li>
+  <li><h2><a href="https://github.com/marcelomonier/langchain_and_youtube" target="_blank">LangChain and YouTube</a>:</h2>This project extracts a YouTube video's transcript, summarizes it using Google's Gemini model via Langchain, and displays it all in a Streamlit application.</li>
 
   <li><h2><a href="https://github.com/marcelomonier/Churn_Prediction" target="_blank">Churn Prediction</a>:</h2>The goal is to build a model with predictive power and provide insights into the behavior of customer churn for the company.</li>
   
